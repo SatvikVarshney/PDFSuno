@@ -13,15 +13,14 @@ PDF Suno transforms the way we engage with documents by enabling seamless conver
 
 Below is a sample audio demonstration of PDF Suno's current capabilities. The Audio sample is created based off the sample PDF uploaded in teh Sample data folder:
 
-```html
 <audio controls>
     <source src="Results_Audio/Sample_Audiobook.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio>
-```
-If you are facing issues with the playback you can downlaod teh file from here:
+
+If you are facing issues with the playback you can downlaod the file from here:
 [Download and play sample audio](Results_Audio/Sample_Audiobook.mp3)
-[Sample Audio](Results_Audio/Sample_Audiobook.mp3)
+
 
 
 ## Key Features
