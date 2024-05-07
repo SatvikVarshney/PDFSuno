@@ -10,17 +10,13 @@ PDF Suno transforms the way we engage with documents by enabling seamless conver
 
 ## Sample Demonstration Overview
 
+Below is an audio demonstration of PDF Suno's current capabilities. The audio sample is based on the PDF uploaded in the Sample Data folder:
 
-Below is a sample audio demonstration of PDF Suno's current capabilities. The Audio sample is created based off the sample PDF uploaded in the Sample data folder:
-
-<audio controls>
-    <source src="Results_Audio/Sample_Audiobook.mp3" type="audio/mpeg">
-    
-</audio>
+https://github.com/SatvikVarshney/PDFSuno/assets/114079530/3f391d41-7003-4264-bfb4-dd723818020a
 
 
 
-If you are facing issues with the playback you can downlaod the file from here:
+If you encounter issues with playback, you can download the file in .mp3 format here:
 [Download and play sample audio](Results_Audio/Sample_Audiobook.mp3)
 
 
@@ -39,15 +35,15 @@ If you are facing issues with the playback you can downlaod the file from here:
 
 ### Planned Enhancements
 
-1. **Move to GCP:** Based on reviews Google Cloud Platform offers superior quality text extraction, translation, and TTS compared to aws. This move could improve quality in all these areas.
+1. **Migration to GCP:** Reviews indicate that Google Cloud Platform offers superior text extraction, translation, and TTS compared to AWS. This migration could enhance quality in these areas.
 
-2. **Expanded Language Support:** Future updates will include support for additional languages, broadening the application's accessibility.
+2. **Expanded Language Support:** Future updates will include additional languages, broadening the application's accessibility.
 
-3. **Enhanced Audio Quality:** Improvements will focus on enhancing the quality and naturalness of synthesized audio, offering a superior listening experience. Emphasis may be placed on creating a local TTS software for Hindi. 
+3. **Enhanced Audio Quality:** Improvements will focus on enhancing the quality and naturalness of synthesized audio, offering a superior listening experience. Emphasis may be placed on creating local TTS software for Hindi.
 
-4. **User Interface Improvements:** The aim is to enhance the application's user interface for a more intuitive and seamless experience.
+4. **User Interface Improvements:** The goal is to enhance the application's user interface for a more intuitive and seamless experience.
 
-5. **Improved Extraction:** Local extraction including OCR will allow for a more cost effective solution.
+5. **Improved Extraction:** Local extraction, including OCR, will provide a more cost-effective solution.
 
 
 ## How It Works
